@@ -1,0 +1,3 @@
+displayName = Tutorial Mod
+author = Ovalsquare
+version = 0.1
